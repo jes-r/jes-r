@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bonsai, Blender & 3D in general
 - 🌱 I’m currently learning the above
 - 😄 I’m looking to collaborate on IfcOpenShell
-- 📫 How to reach me ...
+ 
 
  
 
